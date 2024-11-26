@@ -66,4 +66,12 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    //coil
+    implementation(libs.coil.compose)
+    // Retrofit
+    implementation(libs.retrofit)
+    implementation(libs.retrofit.converter.gson)
+    // OkHttp
+    implementation(libs.okhttp)
+    implementation(libs.okhttp.logging)
 }

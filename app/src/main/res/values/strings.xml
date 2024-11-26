@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Homework #2</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="no_data">No books available</string>
+    <string name="content_description">Book</string>
 </resources>
